@@ -1,3 +1,6 @@
+**This fork was abandoned on 2013-03-13.**
+**All changes were pulled into the [original repo](https://github.com/gooh/InterfaceDistiller).**  
+
 # InterfaceDistiller
 
 InterfaceDistiller allows you to derive Interfaces from the API of a class.
